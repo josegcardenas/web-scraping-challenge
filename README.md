@@ -6,7 +6,7 @@ In this assignment, you will build a web application that scrapes various websit
 
 ### NASA Mars News
 
-1. Fatal: Unable to downgrade Chrome to match chromedriver.
+1. Fatal: Unable to downgrade Chrome to match chromedriver.      
 
 2. Scrape the [Mars News Site](https://redplanetscience.com/) and collect the latest News Title and Paragraph Text. Assign the text to variables that you can reference later.
 
