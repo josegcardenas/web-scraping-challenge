@@ -1,0 +1,30 @@
+1624141553804	geckodriver	INFO	Listening on 127.0.0.1:60929
+1624141556825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JOSEGC~1\\AppData\\Local\\Temp\\rust_mozprofileEVyYir"
+1624141557666	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jose G Cardenas\\AppData\\Local\\Temp\\rust_mozprofileEVyYir\\search.json.mozlz4", (void 0)))
+1624141559883	Marionette	INFO	Listening on port 60937
+1624141560375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mars.nasa.gov/assets/public_manifest-63a5b4071bf0b92dd1f67e47c49ab61a6fc0053457345d4c132ae36b10bde324.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://mars.nasa.gov/assets/mb_manifest-a0ae601bc18c852649e350709ab440161da58529f782ae84172c21f8ea27b714.js, line 1: TypeError: this.setViewportHeightVariable is not a function
+1624141660035	Marionette	INFO	Stopped listening on port 60937
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JOSEGC~1\\AppData\\Local\\Temp\\rust_mozprofileqNC3NR"
+1624141611048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jose G Cardenas\\AppData\\Local\\Temp\\rust_mozprofileqNC3NR\\search.json.mozlz4", (void 0)))
+1624141614127	Marionette	INFO	Listening on port 55200
+1624141614396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624141662664	Marionette	INFO	Stopped listening on port 55200
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JOSEGC~1\\AppData\\Local\\Temp\\rust_mozprofilewmikMI"
+1624141640872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jose G Cardenas\\AppData\\Local\\Temp\\rust_mozprofilewmikMI\\search.json.mozlz4", (void 0)))
+1624141642789	Marionette	INFO	Listening on port 55267
+1624141643216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624141655169	Marionette	INFO	Stopped listening on port 55267
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
